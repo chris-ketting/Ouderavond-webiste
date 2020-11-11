@@ -1,0 +1,7 @@
+img.corona {
+    width: 310px;
+    position:absolute;
+    top:52%;
+    right: 300px;
+    transform: translateY(-50%);
+}
